@@ -3,3 +3,6 @@ starlette>=0.37.0
 uvicorn>=0.27.0
 sse-starlette>=1.8.0
 httpx>=0.26.0
+langgraph
+fastapi
+langchain_google_genai
